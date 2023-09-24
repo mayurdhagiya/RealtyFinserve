@@ -3,33 +3,35 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 542.8 682.6" style="enable-background:new 0 0 542.8 682.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{clip-path:url(#SVGID_00000109014381417809008620000002615121268022414770_);}
-	.st1{fill:url(#SVGID_00000006685837742701584620000006430356638457057708_);}
+	.st0{clip-path:url(#SVGID_00000150060036414186381750000010015935890674988418_);}
+	.st1{fill:url(#SVGID_00000009579445117572726250000012814364093848446911_);}
 </style>
 <g>
-	<defs>
-		<path id="SVGID_1_" d="M516.8,175.3C476.4,114.8,363.3,7.9,259.9,0.4C157.3-6.4,64.4,86.2,20.6,147.6
-			c-42.9,62.2-14.3,179.1,42.9,276.7c58,97.5,144.6,176.6,228.7,175.8c84.1-1.7,165.7-84.1,211.1-174.1
-			C548.8,335.1,557.2,235.9,516.8,175.3L516.8,175.3z"/>
-	</defs>
-	<clipPath id="SVGID_00000158715257827247282540000007187693465543452827_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g style="clip-path:url(#SVGID_00000158715257827247282540000007187693465543452827_);">
-		
-			<linearGradient id="SVGID_00000029008173947056428930000002368770174455481519_" gradientUnits="userSpaceOnUse" x1="-1.851429e-03" y1="342.3551" x2="542.7709" y2="342.3551" gradientTransform="matrix(1 0 0 -1 0 684)">
-			<stop  offset="0" style="stop-color:#3D77BC;stop-opacity:0.45"/>
-			<stop  offset="1" style="stop-color:#3D77BC;stop-opacity:0.98"/>
-			<stop  offset="1" style="stop-color:#3D77BC"/>
-			<stop  offset="1" style="stop-color:#3D77BC"/>
-			<stop  offset="1" style="stop-color:#3D77BC"/>
-		</linearGradient>
-		<path style="fill:url(#SVGID_00000029008173947056428930000002368770174455481519_);" d="M516.8,175.3
-			c40.4,60.6,32,159.8-13.5,250.6c-45.4,90-127,172.4-211.1,174.1c-84.1,0.8-170.7-78.2-228.7-175.8
-			C6.3,326.7-22.2,209.8,20.6,147.6c43.7-61.4,158.9-69,261.5-62.2C385.6,92.9,476.4,114.8,516.8,175.3L516.8,175.3z"/>
-		
-			<image style="overflow:visible;" width="579" height="872" xlink:href="../../../../../Desktop/riddhi.png"  transform="matrix(1 0 0 1 -13 -28)">
-		</image>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M516.8,175.3C476.4,114.8,363.3,7.9,259.9,0.4C157.3-6.4,64.4,86.2,20.6,147.6
+				c-42.9,62.2-14.3,179.1,42.9,276.7c58,97.5,144.6,176.6,228.7,175.8c84.1-1.7,165.7-84.1,211.1-174.1
+				C548.8,335.1,557.2,235.9,516.8,175.3L516.8,175.3z"/>
+		</defs>
+		<clipPath id="SVGID_00000121271237750811185780000000552606758114923197_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000121271237750811185780000000552606758114923197_);">
+			
+				<linearGradient id="SVGID_00000070816719849999493560000003045687692450697390_" gradientUnits="userSpaceOnUse" x1="-1.111186e-02" y1="737.6797" x2="542.783" y2="737.6797" gradientTransform="matrix(1 0 0 1 0 -396)">
+				<stop  offset="0" style="stop-color:#3D77BC;stop-opacity:0.45"/>
+				<stop  offset="1" style="stop-color:#3D77BC;stop-opacity:0.98"/>
+				<stop  offset="1" style="stop-color:#3D77BC"/>
+				<stop  offset="1" style="stop-color:#3D77BC"/>
+				<stop  offset="1" style="stop-color:#3D77BC"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000070816719849999493560000003045687692450697390_);" d="M516.8,175.3
+				c40.4,60.6,32,159.8-13.5,250.6c-45.4,90-127,172.4-211.1,174.1c-84.1,0.8-170.7-78.2-228.7-175.8
+				C6.3,326.7-22.2,209.8,20.6,147.6c43.7-61.4,158.9-69,261.5-62.2C385.6,92.9,476.4,114.8,516.8,175.3L516.8,175.3z"/>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="579" height="872" xlink:href="../../../../../Desktop/riddhi.png"  transform="matrix(1 0 0 1 -13 -28)">
+			</image>
+		</g>
 	</g>
 </g>
 </svg>
